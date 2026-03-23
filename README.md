@@ -1,15 +1,17 @@
-
 ## Aritri Cha — Multi-Container App on AWS
 
-YEAH YEAH , blah blah same thing, new er shizz here!
+Yeah yeah same shizz new er thnag
+Except this one actually works end-to-end.
+
 ---
 
 ### ⚡ Overview
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBqeWdhdDMwaWV6bTljemo3MmE3Zm12a2ZrZDllem4wZHh3Ymg5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UNQ8B2nvmT5fhP9H5h/giphy.gif" width="60%" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NyNXp5Y2lhOGY1eng5dzF2NnprNGR0ZW9uYTY4b2MxbzZ6MG1vbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57qQCHGvcWP8TsutN1/giphy.gif" width="60%" />
 </p>
 
+> When the frontend, backend, infra, and CI/CD all decide to cooperate (rare event).
 
 ---
 
@@ -29,5 +31,5 @@ YEAH YEAH , blah blah same thing, new er shizz here!
 ### 🧠 Architecture
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBqeWdhdDMwaWV6bTljemo3MmE3Zm12a2ZrZDllem4wZHh3Ymg5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UNQ8B2nvmT5fhP9H5h/giphy.gif" width="85%" alt="Architecture Diagram"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVkMzV5MmhubDBjM3l1d2k0azZ5YnJjNXZmYnY5Ym50MW1ldXB5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ebrpADZKFSlMJdvawL/giphy.gif" width="85%" alt="Architecture Diagram"/>
 </p>
