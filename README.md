@@ -1,7 +1,6 @@
 ## Aritri Cha — Multi-Container App on AWS
 
 Yeah yeah same shizz new er thnag
-Except this one actually works end-to-end.
 
 ---
 
@@ -11,7 +10,6 @@ Except this one actually works end-to-end.
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NyNXp5Y2lhOGY1eng5dzF2NnprNGR0ZW9uYTY4b2MxbzZ6MG1vbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57qQCHGvcWP8TsutN1/giphy.gif" width="60%" />
 </p>
 
-> When the frontend, backend, infra, and CI/CD all decide to cooperate (rare event).
 
 ---
 
